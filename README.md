@@ -1,3 +1,5 @@
+![banner](./banner.png)
+
 <h2 align="left">About Me :writing_hand:</h2>
 
 ###
@@ -76,11 +78,20 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo"/>
+  </a>
+  <a href="https://discord.com/users/201695235665821697" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord Logo"/>
+  </a>
+  <a href="mailto:dankai.devops@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail Logo"/>
+  </a>
+  <a href="https://dakaiser.substack.com/">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/57326432ca70ec25b8eca455aa32fc8f90ad42ef/icons/substack.svg" width="52" height="40" alt="Substack Logo" style="filter: invert(41%) sepia(87%) saturate(3015%) hue-rotate(15deg) brightness(101%) contrast(92%);">
+  </a>
+</p>
 
 ###
 
