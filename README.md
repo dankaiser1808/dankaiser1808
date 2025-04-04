@@ -1,12 +1,12 @@
-![banner](./banner.png)
+![banner](./assets/banner.png)
 
 <h2 align="left">About Me :writing_hand:</h2>
 
 ###
 
-<p align="left">I'm Daniel, a DevOps Engineer with multiple years of experience who moved from Germany to the United States. I love problem-solving, automating tasks, and tinkering with all kinds of technologies in my self-built Kubernetes homelab.</p>
+<p align="left">I'm Daniel, a cloud native DevOps Engineer with multiple years of experience who moved from Germany to the United States. I love problem-solving, automating tasks, tinkering with all kinds of technologies in my self-built Kubernetes homelab and fresh brewed coffee.</p>
 
-<p>I'm passionate about Cloud Native technologies, problem-solving & automation, and a fresh brewed coffee. When I’m not working with tech, you’ll find me playing video games, dancing, or on the pickleball court. I also love traveling with my wife, meeting new people, and learning about different cultures from all over the world.</p>
+<p>When I’m not working with tech, you’ll find me playing video games, dancing, or on the pickleball court. I also love traveling with my wife, meeting new people, and learning about different cultures from all over the world.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 Using the Zettelkasten method to improve how I learn<br><br>🧠 Solving daily tasks on KodeKloud Engineer to sharpen my skills<br><br>☁️ Stay up to date with AWS<br><br>🧪 Applying Cloud Native Technologies into my Kubernetes homelab<br><br>👨‍🚀 On the mission to become a Kubestronaut</p>
+<p align="left">📚 Using the Zettelkasten method to improve how I learn<br><br>🧠 Solving daily tasks on KodeKloud Engineer to sharpen my skills<br><br>☁️ Staying up to date with AWS<br><br>🧪 Applying Cloud Native Technologies into my Kubernetes homelab<br><br>👨‍🚀 On the mission to become a Kubestronaut</p>
 
 ###
 
@@ -89,7 +89,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail Logo"/>
   </a>
   <a href="https://dakaiser.substack.com/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/57326432ca70ec25b8eca455aa32fc8f90ad42ef/icons/substack.svg" width="52" height="40" alt="Substack Logo" style="filter: invert(41%) sepia(87%) saturate(3015%) hue-rotate(15deg) brightness(101%) contrast(92%);">
+    <img src="./assets/substack.png" width="36" height="" alt="Substack Logo">
   </a>
 </p>
 
